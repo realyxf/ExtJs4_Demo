@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "users": [
+        {"id":1, "name": "Fennie", "age": 18},
+        {"id":2, "name": "FF", "age": 18}
+    ]
+}
